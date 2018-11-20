@@ -1,0 +1,6 @@
+<map id="genfit::AbsKalmanFitter" name="genfit::AbsKalmanFitter">
+<area shape="rect" id="node3" href="$classgenfit_1_1_d_a_f.html" title="Determinstic Annealing Filter (DAF) implementation. " alt="" coords="5,637,215,979"/>
+<area shape="rect" id="node4" href="$classgenfit_1_1_kalman_fitter.html" title="Simple Kalman filter implementation. " alt="" coords="239,703,432,913"/>
+<area shape="rect" id="node5" href="$classgenfit_1_1_kalman_fitter_ref_track.html" title="Kalman filter implementation with linearization around a reference track. " alt="" coords="457,593,665,1023"/>
+<area shape="rect" id="node2" href="$classgenfit_1_1_abs_fitter.html" title="Abstract base class for fitters. " alt="" coords="250,5,421,141"/>
+</map>

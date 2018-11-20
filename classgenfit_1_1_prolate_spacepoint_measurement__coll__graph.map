@@ -1,0 +1,6 @@
+<map id="genfit::ProlateSpacepointMeasurement" name="genfit::ProlateSpacepointMeasurement">
+<area shape="rect" id="node2" href="$classgenfit_1_1_spacepoint_measurement.html" title="Class for measurements implementing a space point hit geometry. " alt="" coords="7,1257,239,1525"/>
+<area shape="rect" id="node3" href="$classgenfit_1_1_abs_measurement.html" title="Contains the measurement and covariance in raw detector coordinates. " alt="" coords="41,911,205,1208"/>
+<area shape="rect" id="node5" href="$classgenfit_1_1_track_point.html" title="Object containing AbsMeasurement and AbsFitterInfo objects. " alt="" coords="139,565,301,848"/>
+<area shape="rect" id="node6" href="$classgenfit_1_1_track.html" title="Collection of TrackPoint objects, AbsTrackRep objects and FitStatus objects. " alt="" coords="190,132,399,503"/>
+</map>

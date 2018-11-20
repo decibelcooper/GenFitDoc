@@ -1,0 +1,4 @@
+<map id="genfit::FieldManager" name="genfit::FieldManager">
+<area shape="rect" id="node2" href="$classgenfit_1_1_abs_b_field.html" title="Abstract Interface to magnetic fields in GENFIT. " alt="" coords="5,20,128,141"/>
+<area shape="rect" id="node3" href="$structgenfit_1_1field_cache.html" title="Cache B field at a position. Used by FieldManager. " alt="" coords="153,5,277,156"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="genfit::MeasuredStateOnPlane" name="genfit::MeasuredStateOnPlane">
+<area shape="rect" id="node3" href="$classgenfit_1_1_kalman_fitted_state_on_plane.html" title="MeasuredStateOnPlane with additional info produced by a Kalman filter or DAF. " alt="" coords="5,674,213,927"/>
+<area shape="rect" id="node4" href="$classgenfit_1_1_measurement_on_plane.html" title="Measured coordinates on a plane. " alt="" coords="238,593,429,1008"/>
+<area shape="rect" id="node2" href="$classgenfit_1_1_state_on_plane.html" title="A state with arbitrary dimension defined in a DetPlane. " alt="" coords="150,5,293,273"/>
+</map>

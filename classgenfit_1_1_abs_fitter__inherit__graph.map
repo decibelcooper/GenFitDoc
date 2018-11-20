@@ -1,0 +1,8 @@
+<map id="genfit::AbsFitter" name="genfit::AbsFitter">
+<area shape="rect" id="node2" href="$classgenfit_1_1_abs_kalman_fitter.html" title="Abstract base class for Kalman fitter and derived fitting algorithms. " alt="" coords="228,189,443,545"/>
+<area shape="rect" id="node6" href="$classgenfit_1_1_gbl_fitter.html" title="Generic GBL implementation. " alt="" coords="467,189,678,545"/>
+<area shape="rect" id="node7" href="$classgenfit_1_1_g_f_gbl.html" title="Generic GBL implementation. " alt="" coords="702,226,913,509"/>
+<area shape="rect" id="node3" href="$classgenfit_1_1_d_a_f.html" title="Determinstic Annealing Filter (DAF) implementation. " alt="" coords="5,637,215,979"/>
+<area shape="rect" id="node4" href="$classgenfit_1_1_kalman_fitter.html" title="Simple Kalman filter implementation. " alt="" coords="239,703,432,913"/>
+<area shape="rect" id="node5" href="$classgenfit_1_1_kalman_fitter_ref_track.html" title="Kalman filter implementation with linearization around a reference track. " alt="" coords="457,593,665,1023"/>
+</map>

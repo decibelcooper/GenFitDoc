@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['r_5f',['R_',['../classgenfit_1_1_helix_track_model.html#a9cbd1572703fb1389c0c92780fd50e8a',1,'genfit::HelixTrackModel']]],
+  ['radiationlength',['radiationLength',['../structgenfit_1_1_material.html#a94e93f4a80c38710fc838dc5a9c9c63d',1,'genfit::Material']]],
+  ['radiationlength_5f',['radiationLength_',['../classgenfit_1_1_material_effects.html#a0c492ef1c45e6bce736fb563c7b1e126',1,'genfit::MaterialEffects']]],
+  ['rawhitcoords_5f',['rawHitCoords_',['../classgenfit_1_1_abs_measurement.html#a8e50bc2e8069f81ca7d1491e21ed5686',1,'genfit::AbsMeasurement']]],
+  ['rawhitcov_5f',['rawHitCov_',['../classgenfit_1_1_abs_measurement.html#a53ddadc843a5d4e4fbfdc73484afe2ad',1,'genfit::AbsMeasurement']]],
+  ['rawmeasurements_5f',['rawMeasurements_',['../classgenfit_1_1_track_point.html#adf7980c6c99b79ea77be6723fc8eddda',1,'genfit::TrackPoint']]],
+  ['referencestate_5f',['referenceState_',['../classgenfit_1_1_kalman_fitter_info.html#a230d92c4ef269b6c17978d3d4cdaeadf',1,'genfit::KalmanFitterInfo']]],
+  ['refit_5f',['refit_',['../classgenfit_1_1_event_display.html#abebd25718a3b3060c57493ef073888d6',1,'genfit::EventDisplay']]],
+  ['refitall_5f',['refitAll_',['../classgenfit_1_1_kalman_fitter_ref_track.html#a74380fb88d992d79d28d8f2db654e283',1,'genfit::KalmanFitterRefTrack']]],
+  ['refprediction_5f',['refPrediction_',['../classgenfit_1_1_gbl_fitter_info.html#ada7a1e0cc8598bb1d0c1c7f0be00ed17',1,'genfit::GblFitterInfo']]],
+  ['relchi2change_5f',['relChi2Change_',['../classgenfit_1_1_abs_kalman_fitter.html#acee3f554f40e41ec5a6ddf143aa9e771',1,'genfit::AbsKalmanFitter']]],
+  ['rep_5f',['rep_',['../classgenfit_1_1_abs_fitter_info.html#ac04c62253cbfd4e97f0014ab0025b9fe',1,'genfit::AbsFitterInfo::rep_()'],['../classgenfit_1_1_state_on_plane.html#a886b5907dd1805073d0ef1ad477269de',1,'genfit::StateOnPlane::rep_()']]],
+  ['repid_5f',['repId_',['../classgenfit_1_1_event_display.html#a319fe692e6f16d35a5ec4ab55a0eab27',1,'genfit::EventDisplay']]],
+  ['res_5f',['res_',['../classgenfit_1_1_kalman_fitter_ref_track.html#a6c909a864317b88ac7e39e5cb72c2945',1,'genfit::KalmanFitterRefTrack']]],
+  ['resetoffdiagonals_5f',['resetOffDiagonals_',['../classgenfit_1_1_abs_kalman_fitter.html#aba43602a6f287a320aee7cf48b20f2b6',1,'genfit::AbsKalmanFitter']]],
+  ['resm_5f',['resM_',['../classgenfit_1_1_kalman_fitter_ref_track.html#ae8edaed3ee1838981a90ac26d4e66ab8',1,'genfit::KalmanFitterRefTrack']]],
+  ['resolution_5f',['resolution_',['../classgenfit_1_1_measurement_creator.html#a4c4ba00e84f8f407760cd281ebff9a8d',1,'genfit::MeasurementCreator']]],
+  ['resolutionwire_5f',['resolutionWire_',['../classgenfit_1_1_measurement_creator.html#a1a4b042d55ab680361b761f0cd56fd62',1,'genfit::MeasurementCreator']]],
+  ['resort_5f',['resort_',['../classgenfit_1_1_event_display.html#abca0d443459fa2d0cedb8113535f8d90',1,'genfit::EventDisplay']]],
+  ['rinv_5f',['Rinv_',['../classgenfit_1_1_kalman_fitter_ref_track.html#a64e43859876df260628161c85aaa414e',1,'genfit::KalmanFitterRefTrack']]],
+  ['rksteps_5f',['RKSteps_',['../classgenfit_1_1_r_k_track_rep.html#aa1410db6a917d58041adf06c418cf1d8',1,'genfit::RKTrackRep']]],
+  ['rkstepsfxstart_5f',['RKStepsFXStart_',['../classgenfit_1_1_r_k_track_rep.html#a27fe628afd6be77f1f9de8a5a10d3b0a',1,'genfit::RKTrackRep']]],
+  ['rkstepsfxstop_5f',['RKStepsFXStop_',['../classgenfit_1_1_r_k_track_rep.html#ac04989ccf60fdba61d369aa462cdf40b',1,'genfit::RKTrackRep']]]
+];

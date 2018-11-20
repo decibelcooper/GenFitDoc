@@ -1,0 +1,13 @@
+<map id="/home/eicuser/GenFit/trackReps/include/MaterialEffects.h" name="/home/eicuser/GenFit/trackReps/include/MaterialEffects.h">
+<area shape="rect" id="node2" href="$_r_k_tools_8h.html" title="RKTools.h" alt="" coords="97,259,180,285"/>
+<area shape="rect" id="node5" href="$_abs_material_interface_8h.html" title="AbsMaterialInterface.h" alt="" coords="618,109,771,136"/>
+<area shape="rect" id="node6" href="$_r_k_track_rep_8h.html" title="RKTrackRep.h" alt="" coords="307,184,415,211"/>
+<area shape="rect" id="node15" href="$_material_8h.html" title="Material.h" alt="" coords="43,408,122,435"/>
+<area shape="rect" id="node7" href="$_abs_track_rep_8h.html" title="AbsTrackRep.h" alt="" coords="305,333,417,360"/>
+<area shape="rect" id="node21" href="$_state_on_plane_8h.html" title="StateOnPlane.h" alt="" coords="433,259,548,285"/>
+<area shape="rect" id="node23" href="$_step_limits_8h.html" title="StepLimits.h" alt="" coords="669,259,763,285"/>
+<area shape="rect" id="node8" href="$_shared_plane_ptr_8h.html" title="SharedPlanePtr.h" alt="" coords="515,408,637,435"/>
+<area shape="rect" id="node9" href="$_det_plane_8h.html" title="DetPlane.h" alt="" coords="605,483,691,509"/>
+<area shape="rect" id="node10" href="$_abs_finite_plane_8h.html" title="AbsFinitePlane.h" alt="" coords="626,557,747,584"/>
+<area shape="rect" id="node16" href="$_eigen_matrix_typedefs_8h.html" title="EigenMatrixTypedefs.h" alt="" coords="5,483,160,509"/>
+</map>

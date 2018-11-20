@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['ravetogfvertex',['RaveToGFVertex',['../namespacegenfit.html#a2dd2ff4e5f87d151e2091a57409441ee',1,'genfit']]],
+  ['ravetogfvertices',['RaveToGFVertices',['../namespacegenfit.html#a97883ccfec51c4d89dbf8e969028bad4',1,'genfit']]],
+  ['recalculatejacobian',['recalculateJacobian',['../classgenfit_1_1_gbl_fitter_info.html#a6a5ecb1dd2d2c36cec4582037cc226e0',1,'genfit::GblFitterInfo']]],
+  ['rectangularfiniteplane',['RectangularFinitePlane',['../classgenfit_1_1_rectangular_finite_plane.html#ad4f3414f50a65fbd66080a096fa577d5',1,'genfit::RectangularFinitePlane::RectangularFinitePlane(const double &amp;, const double &amp;, const double &amp;, const double &amp;)'],['../classgenfit_1_1_rectangular_finite_plane.html#a944ab9b89917a3685d7430fcb16c6460',1,'genfit::RectangularFinitePlane::RectangularFinitePlane()']]],
+  ['reducelimit',['reduceLimit',['../classgenfit_1_1_step_limits.html#a0ce3f0a1b234422f994f30f5e75343ec',1,'genfit::StepLimits']]],
+  ['referencestateonplane',['ReferenceStateOnPlane',['../classgenfit_1_1_reference_state_on_plane.html#a8f291bbd37b8cb2d76071e12ded0b799',1,'genfit::ReferenceStateOnPlane::ReferenceStateOnPlane()'],['../classgenfit_1_1_reference_state_on_plane.html#a499e287d73ceabecfd7294f9ba95b416',1,'genfit::ReferenceStateOnPlane::ReferenceStateOnPlane(const TVectorD &amp;state, const SharedPlanePtr &amp;plane, const AbsTrackRep *rep)'],['../classgenfit_1_1_reference_state_on_plane.html#a4647a7ff8a604d99bf8bc313052d1803',1,'genfit::ReferenceStateOnPlane::ReferenceStateOnPlane(const TVectorD &amp;state, const SharedPlanePtr &amp;plane, const AbsTrackRep *rep, const TVectorD &amp;auxInfo)'],['../classgenfit_1_1_reference_state_on_plane.html#a030a88393e2b63312aebc3db2771c9a2',1,'genfit::ReferenceStateOnPlane::ReferenceStateOnPlane(const StateOnPlane &amp;state)']]],
+  ['removeforwardbackwardinfo',['removeForwardBackwardInfo',['../classgenfit_1_1_kalman_fitter_ref_track.html#a48a9699249781563c38f0825cf0ab4de',1,'genfit::KalmanFitterRefTrack']]],
+  ['removelimit',['removeLimit',['../classgenfit_1_1_step_limits.html#af3bc0f2492bfd0e2513bd18619b14e2e',1,'genfit::StepLimits']]],
+  ['removeoutdated',['removeOutdated',['../classgenfit_1_1_kalman_fitter_ref_track.html#a6112774ee2e5b98aa7592038ea49a52a',1,'genfit::KalmanFitterRefTrack']]],
+  ['reset',['reset',['../classgenfit_1_1_det_plane.html#a7ccf1f2621ce7a3577116a65fae9e50d',1,'genfit::DetPlane::reset()'],['../structgenfit_1_1_prune_flags.html#a469d177a502c30ce2c8cc0ac51b57801',1,'genfit::PruneFlags::reset()'],['../classgenfit_1_1_track_cand.html#ad72f3d992dbab5a459202ffc11d7b9de',1,'genfit::TrackCand::reset()'],['../classgenfit_1_1_event_display.html#a91b0fd6b79ac3cf9f3cdb961684e9284',1,'genfit::EventDisplay::reset()'],['../classgenfit_1_1_gbl_fitter_info.html#a80dd649bc2ad13bf0da08f26df9f0f28',1,'genfit::GblFitterInfo::reset()'],['../classgenfit_1_1_step_limits.html#ada8640542f6d6fc3f9467bf08d8ad777',1,'genfit::StepLimits::reset()'],['../classgenfit_1_1_measurement_creator.html#a111ca02545b3b67ae57e606041ff94c8',1,'genfit::MeasurementCreator::reset()']]],
+  ['resetbackward',['resetBackward',['../classgenfit_1_1_reference_state_on_plane.html#af4aff6a48bdfa91d0e6eb3fe0565bb8c',1,'genfit::ReferenceStateOnPlane']]],
+  ['resetforward',['resetForward',['../classgenfit_1_1_reference_state_on_plane.html#a1a0b3514e290e0e04a27bd382d6692f3',1,'genfit::ReferenceStateOnPlane']]],
+  ['resize',['resize',['../classgbl_1_1_bordered_band_matrix.html#aa0c76b98dc98f370be4ddb12c97231d3',1,'gbl::BorderedBandMatrix::resize()'],['../classgbl_1_1_v_vector.html#aa059c1b22b772221e4ad6c4ce641911e',1,'gbl::VVector::resize()'],['../classgbl_1_1_v_matrix.html#a448c93fde8bb73d9fe96d284a4574ddd',1,'gbl::VMatrix::resize()'],['../classgbl_1_1_v_sym_matrix.html#a8eb56d7b69bbbc3cfcd3c28e87217784',1,'gbl::VSymMatrix::resize()']]],
+  ['reversemomseed',['reverseMomSeed',['../classgenfit_1_1_track.html#a2f9b9d0d3ebd512b3e64df5a91203a49',1,'genfit::Track']]],
+  ['reversetrack',['reverseTrack',['../classgenfit_1_1_track.html#af7557944de667f7bb312c3f960d09096',1,'genfit::Track']]],
+  ['reversetrackpoints',['reverseTrackPoints',['../classgenfit_1_1_track.html#a20e8861b9b00d3de75c8794344ef5d1b',1,'genfit::Track']]],
+  ['rkmatrixtoeigenmatrix',['RKMatrixToEigenMatrix',['../namespacegenfit.html#a77f1226b21330a345e96b38629119723',1,'genfit']]],
+  ['rkpropagate',['RKPropagate',['../classgenfit_1_1_r_k_track_rep.html#affa6945eaba3b0f2b143d039967b834e',1,'genfit::RKTrackRep']]],
+  ['rkstep',['RKStep',['../structgenfit_1_1_r_k_step.html#a99d6dd2eac81744ad17b140ee9db0e66',1,'genfit::RKStep']]],
+  ['rktrackrep',['RKTrackRep',['../classgenfit_1_1_r_k_track_rep.html#aca0b07380cd50f63eef644ebda8252ce',1,'genfit::RKTrackRep::RKTrackRep()'],['../classgenfit_1_1_r_k_track_rep.html#ab266d184647ad23a4b9f1e8f408b6513',1,'genfit::RKTrackRep::RKTrackRep(int pdgCode, char propDir=0)']]],
+  ['rkutta',['RKutta',['../classgenfit_1_1_r_k_track_rep.html#a475b9252894f8293af0e77cf27bf54cb',1,'genfit::RKTrackRep']]],
+  ['rootmatrixsymtoeigenmatrix',['rootMatrixSymToEigenMatrix',['../namespacegenfit.html#aa5b674d895026a13ab3385abb4f60e25',1,'genfit']]],
+  ['rootmatrixtoeigenmatrix',['rootMatrixToEigenMatrix',['../namespacegenfit.html#ab15bce5d37066d5a1f6864238e91f617',1,'genfit']]],
+  ['rootvectortoeigenvector',['rootVectorToEigenVector',['../namespacegenfit.html#ada220ab115220f5ad4f0dd414c05f374',1,'genfit']]],
+  ['rotate',['rotate',['../classgenfit_1_1_det_plane.html#a1f77583b5d34cb6fd27bca12fb7d63a1',1,'genfit::DetPlane']]]
+];

@@ -1,0 +1,4 @@
+<map id="genfit::GblFitter" name="genfit::GblFitter">
+<area shape="rect" id="node2" href="$classgenfit_1_1_abs_fitter.html" title="Abstract base class for fitters. " alt="" coords="5,5,176,141"/>
+<area shape="rect" id="node3" href="$classgenfit_1_1_gbl_track_segment_controller.html" title="TrackSegmentController for use with GblFitter. " alt="" coords="201,5,423,141"/>
+</map>

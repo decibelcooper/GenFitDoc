@@ -1,0 +1,5 @@
+<map id="genfit::SpacepointMeasurement" name="genfit::SpacepointMeasurement">
+<area shape="rect" id="node4" href="$classgenfit_1_1my_spacepoint_measurement.html" title="Example class for a spacepoint measurement which can be created from mySpacepointDetectorHit via the ..." alt="" coords="5,843,229,950"/>
+<area shape="rect" id="node5" href="$classgenfit_1_1_prolate_spacepoint_measurement.html" title="Class for measurements implementing a space point hit geometry with a very prolate form of the covari..." alt="" coords="253,807,488,987"/>
+<area shape="rect" id="node2" href="$classgenfit_1_1_abs_measurement.html" title="Contains the measurement and covariance in raw detector coordinates. " alt="" coords="162,131,326,443"/>
+</map>

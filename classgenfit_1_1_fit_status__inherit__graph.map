@@ -1,0 +1,4 @@
+<map id="genfit::FitStatus" name="genfit::FitStatus">
+<area shape="rect" id="node2" href="$classgenfit_1_1_gbl_fit_status.html" title="FitStatus for use with GblFitter. " alt="" coords="5,409,209,751"/>
+<area shape="rect" id="node3" href="$classgenfit_1_1_kalman_fit_status.html" title="FitStatus for use with AbsKalmanFitter implementations. " alt="" coords="233,424,437,736"/>
+</map>
